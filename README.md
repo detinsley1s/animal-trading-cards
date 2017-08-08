@@ -1,1 +1,1 @@
-"# animal-trading-cards" 
+# animal-trading-cards
