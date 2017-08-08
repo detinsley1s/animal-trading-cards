@@ -1,0 +1,41 @@
+.animal-image {
+  width: 300px;
+  padding-left: 15px;
+}
+
+.animal-facts {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+.animal-name {
+  padding-left: 15px;
+}
+
+.animal-interesting-fact {
+  font-style: italic;
+  padding: 10px 10px 0 10px;
+}
+
+.animal-fact-label {
+  font-weight: bold;
+}
+
+.animal-card-container,
+.animal-information-container {
+  border: 1px solid lightgray;
+}
+
+.animal-card-container {
+  width: 330px;
+  box-shadow: 10px 10px 5px lightgray;
+}
+
+.animal-information-container {
+  width: 300px;
+  margin: 15px 0 15px 15px;
+}
+
+.animal-description {
+  padding: 0 10px 10px 10px;
+}
